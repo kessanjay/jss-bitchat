@@ -1,0 +1,2 @@
+# JSS BitChat Proguard Rules
+
